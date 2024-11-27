@@ -1,16 +1,18 @@
 # foodorderingapp
-
 A new Flutter project.
 
-## Getting Started
+This is a simple mobile application build with Flutter and SQlite for manageing creating and qerying food items. 
 
-This project is a starting point for a Flutter application.
+Features
 
-A few resources to get you started if this is your first Flutter project:
+Managing Food Items: 
+  Adding new food items with a cost
+  Editing existing food items
+  Deleting food items
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Creating Order Plan
+  Select food items to make an order
+  Save the orders 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Query Order by Date
+  View the order in detail by specifying the order date 
